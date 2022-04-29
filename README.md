@@ -41,6 +41,3 @@ My name is Philipp, I study Data Science at the Technical University of Vienna.
 <a href="https://github.com/PhilippEberl">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippEberl&layout=compact&theme=cobalt" />
 </a>
-<a href="https://github.com/PhilippEberl">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippEberl&layout=compact&theme=cobalt" />
-</a>
