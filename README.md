@@ -33,11 +33,7 @@ My name is Philipp, I study Data Science at the Technical University of Vienna.
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   
 ---  
-<!--
-<a href="https://github.com/PhilippEberl">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhilippEberl&count_private=true&show_icons=true&hide_border=true&theme=cobalt" />
-</a>
--->
-<a href="https://github.com/PhilippEberl">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippEberl&layout=compact&theme=cobalt" />
-</a>
+<div>
+  <a href = 'https://github.com/PhilippEberl'>
+  <img src = "https://github-readme-stats.vercel.app/api?username=PhilippEberl&show_icons=true&theme=react"> <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippEberl&layout=compact&theme=react'>
+   </div>
