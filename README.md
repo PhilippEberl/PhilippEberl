@@ -52,7 +52,6 @@ My name is Philipp and I am currently doing my masters in Data Science at the Te
 <a href="https://www.adobe.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="aftereffects" width="40" height="40"/> </a>
 <a href="https://www.adobe.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="permierepro" width="40" height="40"/> </a>
-<a href="https://visualstudio.microsoft.com/de/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
 
 <h3 align="left">OS I use:</h3>
 <a href="https://www.apple.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>
